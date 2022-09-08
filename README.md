@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @llcesselx
 - 👀 I’m interested in ... video games and security
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... indie video games maybe?
 - 📫 How to reach me ... stretch your arms out and try to touch
 
