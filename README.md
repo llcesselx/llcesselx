@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @llcesselx
-- 👀 I’m interested in ... video games, cybersecurity, and recently... web development! 
-- 🌱 I’m currently learning ... Python, HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on ... indie video games maybe? a website? 
-- 📫 How to reach me ... stretch your arms out and try to touch
-
-I'm currently using Github as a place to store my code from class projects and not really what its supposed to be used for I guess. So don't let my branches and repos confuse you :P 
+- 👀 I’m interested in ... embedded engineering and robotics, crossfit, and playing coop games online with friends 
+- 🌱 I’m currently learning ... Python, C, and how to snatch 
+- 💞️ I’m looking to collaborate on ... an indie video game or recreating a robot like the iRobot. 
+- 📫 How to reach me ... https://www.linkedin.com/in/lea-tice
 
 <!---
 llcesselx/llcesselx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
